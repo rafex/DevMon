@@ -1,0 +1,8 @@
+{
+  "id": "customer-vip",
+  "name": "Customer VIP",
+  "type": "customer",
+  "stats": { "focus": 90, "energy": 55, "logic": 9, "communication": 20, "speed": 10, "stress": 0 },
+  "skills": ["scope-creep", "urgent-request"],
+  "aiProfile": "control"
+}

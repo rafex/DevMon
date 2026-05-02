@@ -1,0 +1,8 @@
+{
+  "id": "pm-junior",
+  "name": "PM Junior",
+  "type": "pm",
+  "stats": { "focus": 70, "energy": 40, "logic": 8, "communication": 16, "speed": 9, "stress": 0 },
+  "skills": ["scope-negotiation", "meeting-loop"],
+  "aiProfile": "control"
+}

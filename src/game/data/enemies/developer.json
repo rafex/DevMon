@@ -1,0 +1,8 @@
+{
+  "id": "dev-rival",
+  "name": "Developer Rival",
+  "type": "developer",
+  "stats": { "focus": 80, "energy": 50, "logic": 14, "communication": 8, "speed": 11, "stress": 0 },
+  "skills": ["hotfix", "refactor"],
+  "aiProfile": "aggressive"
+}

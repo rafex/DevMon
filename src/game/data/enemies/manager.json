@@ -1,0 +1,8 @@
+{
+  "id": "manager-metrics",
+  "name": "Manager de Metricas",
+  "type": "manager",
+  "stats": { "focus": 95, "energy": 65, "logic": 10, "communication": 18, "speed": 8, "stress": 0 },
+  "skills": ["okr-pressure", "one-on-one"],
+  "aiProfile": "defensive"
+}

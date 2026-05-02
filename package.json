@@ -1,0 +1,43 @@
+{
+  "name": "devmon",
+  "version": "1.0.0",
+  "description": "> Un RPG 2D estilo Pokémon donde un programador recorre el “mundo real” (oficina + home office + cliente) enfrentándose en batallas por turnos contra Project Managers, Managers, Customers y otros Developers.   > El objetivo: crecer habilidades, sobrevivir sprints, dominar releases… y no quebrarte por el estrés.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:watch": "vitest",
+    "lint": "eslint . --ext .ts",
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafex/DevMon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/rafex/DevMon/issues"
+  },
+  "homepage": "https://github.com/rafex/DevMon#readme",
+  "dependencies": {
+    "phaser": "^3.90.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^25.3.2",
+    "@typescript-eslint/eslint-plugin": "^8.56.1",
+    "@typescript-eslint/parser": "^8.56.1",
+    "eslint": "^10.0.2",
+    "globals": "^17.3.0",
+    "prettier": "^3.8.1",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1",
+    "vitest": "^4.0.18"
+  }
+}

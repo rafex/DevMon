@@ -1,0 +1,4 @@
+[
+  { "id": "energy-drink", "name": "Energy Drink", "effect": "restore-energy", "value": 20 },
+  { "id": "noise-cancelling", "name": "Noise Cancelling", "effect": "reduce-stress", "value": 10 }
+]

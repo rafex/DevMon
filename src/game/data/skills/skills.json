@@ -1,0 +1,8 @@
+[
+  { "id": "refactor", "name": "Refactor", "costEnergy": 12, "tags": ["tech"], "effect": "DamageEffect" },
+  { "id": "write-tests", "name": "Write Tests", "costEnergy": 10, "tags": ["defense", "tech"], "effect": "BuffStatsEffect" },
+  { "id": "coffee-break", "name": "Coffee Break", "costEnergy": 0, "tags": ["support"], "effect": "HealEffect" },
+  { "id": "hotfix", "name": "Hotfix", "costEnergy": 18, "tags": ["tech"], "effect": "DamageEffect" },
+  { "id": "scope-negotiation", "name": "Scope Negotiation", "costEnergy": 14, "tags": ["social"], "effect": "ApplyStatusEffect" },
+  { "id": "one-on-one", "name": "1:1 Prep", "costEnergy": 8, "tags": ["social", "defense"], "effect": "RemoveStatusEffect" }
+]
